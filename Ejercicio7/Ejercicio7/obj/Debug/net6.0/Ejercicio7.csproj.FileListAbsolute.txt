@@ -1,0 +1,14 @@
+E:\ReporLogic\Ejercicio7\Ejercicio7\bin\Debug\net6.0\Ejercicio7.exe
+E:\ReporLogic\Ejercicio7\Ejercicio7\bin\Debug\net6.0\Ejercicio7.deps.json
+E:\ReporLogic\Ejercicio7\Ejercicio7\bin\Debug\net6.0\Ejercicio7.runtimeconfig.json
+E:\ReporLogic\Ejercicio7\Ejercicio7\bin\Debug\net6.0\Ejercicio7.dll
+E:\ReporLogic\Ejercicio7\Ejercicio7\bin\Debug\net6.0\Ejercicio7.pdb
+E:\ReporLogic\Ejercicio7\Ejercicio7\obj\Debug\net6.0\Ejercicio7.GeneratedMSBuildEditorConfig.editorconfig
+E:\ReporLogic\Ejercicio7\Ejercicio7\obj\Debug\net6.0\Ejercicio7.AssemblyInfoInputs.cache
+E:\ReporLogic\Ejercicio7\Ejercicio7\obj\Debug\net6.0\Ejercicio7.AssemblyInfo.cs
+E:\ReporLogic\Ejercicio7\Ejercicio7\obj\Debug\net6.0\Ejercicio7.csproj.CoreCompileInputs.cache
+E:\ReporLogic\Ejercicio7\Ejercicio7\obj\Debug\net6.0\Ejercicio7.dll
+E:\ReporLogic\Ejercicio7\Ejercicio7\obj\Debug\net6.0\refint\Ejercicio7.dll
+E:\ReporLogic\Ejercicio7\Ejercicio7\obj\Debug\net6.0\Ejercicio7.pdb
+E:\ReporLogic\Ejercicio7\Ejercicio7\obj\Debug\net6.0\Ejercicio7.genruntimeconfig.cache
+E:\ReporLogic\Ejercicio7\Ejercicio7\obj\Debug\net6.0\ref\Ejercicio7.dll

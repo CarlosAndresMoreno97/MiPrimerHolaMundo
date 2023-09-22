@@ -1,0 +1,14 @@
+E:\ReporLogic\NominaEmpleado\NominaEmpleado\bin\Debug\net6.0\NominaEmpleado.exe
+E:\ReporLogic\NominaEmpleado\NominaEmpleado\bin\Debug\net6.0\NominaEmpleado.deps.json
+E:\ReporLogic\NominaEmpleado\NominaEmpleado\bin\Debug\net6.0\NominaEmpleado.runtimeconfig.json
+E:\ReporLogic\NominaEmpleado\NominaEmpleado\bin\Debug\net6.0\NominaEmpleado.dll
+E:\ReporLogic\NominaEmpleado\NominaEmpleado\bin\Debug\net6.0\NominaEmpleado.pdb
+E:\ReporLogic\NominaEmpleado\NominaEmpleado\obj\Debug\net6.0\NominaEmpleado.GeneratedMSBuildEditorConfig.editorconfig
+E:\ReporLogic\NominaEmpleado\NominaEmpleado\obj\Debug\net6.0\NominaEmpleado.AssemblyInfoInputs.cache
+E:\ReporLogic\NominaEmpleado\NominaEmpleado\obj\Debug\net6.0\NominaEmpleado.AssemblyInfo.cs
+E:\ReporLogic\NominaEmpleado\NominaEmpleado\obj\Debug\net6.0\NominaEmpleado.csproj.CoreCompileInputs.cache
+E:\ReporLogic\NominaEmpleado\NominaEmpleado\obj\Debug\net6.0\NominaEmpleado.dll
+E:\ReporLogic\NominaEmpleado\NominaEmpleado\obj\Debug\net6.0\refint\NominaEmpleado.dll
+E:\ReporLogic\NominaEmpleado\NominaEmpleado\obj\Debug\net6.0\NominaEmpleado.pdb
+E:\ReporLogic\NominaEmpleado\NominaEmpleado\obj\Debug\net6.0\NominaEmpleado.genruntimeconfig.cache
+E:\ReporLogic\NominaEmpleado\NominaEmpleado\obj\Debug\net6.0\ref\NominaEmpleado.dll
